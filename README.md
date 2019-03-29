@@ -1,5 +1,5 @@
 # Theme-Config-Tool
-Tool for creating Themes to be used in the ps vita home brew RPPHS
+Tool for creating Themes to be used in the ps vita home-brew [RPPHS](https://github.com/G333333/RPPHS)
 
 - Download from release page
 
